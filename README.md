@@ -41,5 +41,4 @@ Ikuti langkah ini untuk menjalankan proyek di komputer Anda:
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/fmpangestu/XIONCO-EJS_CHATBOT.git](https://github.com/fmpangestu/XIONCO-EJS_CHATBOT.git)
-cd nama repo
+git clone https://github.com/fmpangestu/XIONCO-EJS_CHATBOT.git
