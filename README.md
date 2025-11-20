@@ -45,4 +45,4 @@ git clone https://github.com/fmpangestu/XIONCO-EJS_CHATBOT.git
 ```
 ### 2. Masuk Repository
 ```bash
-cd name-repo
+cd name-repo (XIONCO-EJS_CHATBOT)
